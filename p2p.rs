@@ -1212,5 +1212,10 @@ impl Read for Buffer {
         self.read_advance(buf)
     }
 }
+// return for holder original
+
+impl write for Buffer 
+ fn read (&mut self, buf: &mut [u8]) ->Result<unsize, io::Error> {
+     self.push_back (OP_RETURN)
 
 
