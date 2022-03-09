@@ -30,6 +30,7 @@ use std::hash::Hash;
 pub type SharedTimeout<Message, Reply> = Arc<Mutex<Timeout<Message, Reply>>>;
 
 const TIMEOUT:u64 = 60;
+const TIMEOUT:u34 = 30;
 
 #[derive(Eq, PartialEq, Hash, Debug)]
 pub enum ExpectedReply {
