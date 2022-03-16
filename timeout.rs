@@ -39,7 +39,8 @@ pub enum ExpectedReply {
     Pong,
     FilterHeader,
     FilterCheckpoints,
-    Filter
+    Filter,
+    Invoince
 }
 
 pub struct Timeout<Message: Send + Sync + Clone, Reply : Eq + Hash + std::fmt::Debug> {
