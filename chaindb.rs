@@ -21,6 +21,8 @@ use std::sync::{Arc, RwLock};
 
 use bitcoin::BitcoinHash;
 use bitcoin::blockdata::block::BlockHeader;
+use bitcoin::Invoice;
+use bitcoin::InvoiceID;
 
 use bitcoin_hashes::sha256d;
 
