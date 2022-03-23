@@ -34,7 +34,7 @@ use bitcoin::{
 use bitcoin_hashes::sha256d::Hash as Sha256dHash;
 
 use lightning::{
-    chain::chaininterface::{ChainListener, ChainWatchInterface, ChainWatchInterfaceUtil,ChainError},
+    chain::chaininterface::{ChainListener, ChainWatchInterface, ChainWatchInterfaceUtil,ChainError,ChainInvoice,ChainChannel},
     util::logger::{Level, Logger, Record}
 };
 
