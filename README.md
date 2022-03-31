@@ -22,6 +22,7 @@ Wiki: https://en.bitcoin.it/wiki/Script
 
 ## Deploy and Mainnet
 
+```
 Clone the repo, install requirements and compile
 
 git clone https://github.com/P2PBTC.git
