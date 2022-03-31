@@ -19,3 +19,14 @@ Example:
 Bob sells 0.05 BTC for Alice with price of 1000 USDT. But Alice not pay Bob. Like this we put OP_RETURN. Saving Bitcoins from Bob.
 
 Wiki: https://en.bitcoin.it/wiki/Script
+
+## Deploy and Mainnet
+
+Clone the repo, install requirements and compile
+git clone https://github.com/P2PBTC.git
+cd p2pbtc && npm i && npm run compile
+Start btc & lnd
+npm run docker:regtest
+Start LN npm run p2pbtc:geth
+Start the app
+npm run start
