@@ -21,7 +21,7 @@ Bob sells 0.05 BTC for Alice with price of 1000 USDT. But Alice not pay Bob. Lik
 Wiki: https://en.bitcoin.it/wiki/Script
 
 ## Deploy and Mainnet
-'''''
+
 Clone the repo, install requirements and compile
 
 git clone https://github.com/P2PBTC.git
