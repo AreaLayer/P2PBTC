@@ -73,6 +73,7 @@ pub struct PeerId {
     network: &'static str,
     // mio token used in networking
     token: Token
+    satoshi: Satoshi
 }
 
 impl fmt::Display for PeerId {
