@@ -23,18 +23,15 @@ Wiki: https://en.bitcoin.it/wiki/Script
 ## Deploy and Mainnet
 
 ```
-Clone the repo, install requirements and compile
+npm install / yarn
+```
 
-git clone https://github.com/P2PBTC.git
-
-cd p2pbtc && npm i && npm run compile
-
-Start btc & lnd
-
-npm run docker:regtest
-
-Start LN npm run p2pbtc:geth
-
-Start the app
-
+## Compile
+```
 npm run start
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
