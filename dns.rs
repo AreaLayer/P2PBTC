@@ -23,6 +23,7 @@
 //!
 
 use bitcoin::network::constants::Network;
+use lightningnetwork::network::constant:Network;
 use log::{info, trace};
 use std::net::{SocketAddr, ToSocketAddrs};
 
