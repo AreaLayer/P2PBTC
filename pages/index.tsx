@@ -13,10 +13,10 @@ const Home: NextPage = () => (
     <Layout>
       <Landing />
       <AboutSection id={'about'} />
-      <ProductsSection id={'products'} />
-      <RoadmapSection id={'roadmap'} />
+      <ProductsSection id={'P2P BTC'} />
+      <RoadmapSection id={'Disclaimer'} />
       <BuySection id={'buy'} />
-      <ArticlesSection id={'articles'} />
+      <SellSection id={'Sell'} />
     </Layout>
   </>
 );
