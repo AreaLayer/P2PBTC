@@ -2,6 +2,8 @@
   "homepage":
   "name": "p2pbtc"
   "version":"1.0.0-alpha"
+  "description":"marketplace p2p global"
+  "main": "src/index.js"
   "private": true,
   "dependencies": {
     "react": "^18.1.0",
