@@ -38,3 +38,11 @@ npm run build
 ## Prototype
 
 https://p2pbtc.stackblitz.io
+
+# To-Do
+
+- [ ] Testnet
+- [ ] Integration with LND, OBD, LDK  and Ecalir
+- [ ] Mainnet
+- [ ] Fees
+- [ ] UI via Terminal
