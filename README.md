@@ -1,7 +1,7 @@
 # P2P BTC 🔑
 Marketplace P2P on Lightning Network to allow buy and sell BTCs or Satoshis on second layer.
 
-![image](https://user-images.githubusercontent.com/83122757/154938952-921c54ef-3f2b-462e-8a93-7d037a7a5a56.png)
+![image](https://user-images.githubusercontent.com/83122757/208185368-8b25d762-3b7c-4ea9-a768-d122d8a37e7b.png)
 
 # Security
 
@@ -47,3 +47,4 @@ https://p2pbtc.stackblitz.io
 - [ ] Fees
 - [ ] UI via Terminal
 - [ ] Nostr integration
+- [ ] OmniLayer integration for Buy/Sell with pair BTC/USDT
