@@ -10,7 +10,7 @@ require (
 	github.com/asdine/storm v2.1.2+incompatible
 	github.com/btcsuite/btcd v0.20.1-beta
 	github.com/btcsuite/btcutil v1.0.2
-  github.com/omnilaboratory/obd/ v0.2.0
+        github.com/omnilaboratory/obd/ v0.2.0
 	github.com/cmars/basen v0.0.0-20150613233007-fe3947df716e // indirect
 	github.com/fastly/go-utils v0.0.0-20180712184237-d95a45783239 // indirect
 	github.com/gin-gonic/gin v1.6.3
