@@ -46,3 +46,4 @@ https://p2pbtc.stackblitz.io
 - [ ] Mainnet
 - [ ] Fees
 - [ ] UI via Terminal
+- [ ] Nostr integration
