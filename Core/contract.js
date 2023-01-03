@@ -42,7 +42,7 @@ function acceptSwap(myUserID, nodeID, userID, info, isFunder) {
     })
 }
 
-fuction feeSwap(myUserID, nodeID, userID, info, isFunder) {
+function feeSwap(myUserID, nodeID, userID, info, isFunder) {
     return new Promise((resolve, reject) = > {
         obdAPi.feeSwap(nodeID, userID, info , fuction(e) {
         console.info('Fee: 0.004 feeSwap = ' +Json.stringfy(e));
