@@ -47,4 +47,4 @@ https://p2pbtc.stackblitz.io
 - [ ] Fees
 - [ ] UI via Terminal
 - [ ] Nostr integration
-- [ ] OmniLayer integration for Buy/Sell with pair BTC/USDT
+- [ ] Pair BTC/USDT with API Bitifinex
