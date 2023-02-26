@@ -20,5 +20,8 @@
   },
  "exchange"
 "pair": "btc/usdt"
-}
+},
+"pairs"
+"BTC"
+"USDT"
   
