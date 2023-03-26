@@ -41,10 +41,9 @@ https://p2pbtc.stackblitz.io
 
 # To-Do
 
-- [ ] Testnet
-- [ ] Integration with LND, OBD, LDK  and Ecalir
+- [X] Testnet
 - [ ] Mainnet
-- [ ] Fees
+- [X] Fees
 - [ ] UI via Terminal
 - [ ] Nostr integration
-- [ ] Pair BTC/USDT with API Bitifinex
+- [X] Pair BTC/USDT with API Bitifinex
