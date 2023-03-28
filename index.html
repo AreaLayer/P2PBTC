@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>P2P BTC</title>
+	<style>
+		header {
+			background-color: orange;
+		}
+		table {
+			border-collapse: collapse;
+		}
+		th, td {
+			border: 1px solid black;
+			padding: 10px;
+			text-align: center;
+		}
+		button {
+			background-color: orange;
+			color: white;
+			padding: 10px;
+			border: none;
+			cursor: pointer;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Buy BTC</a></li>
+				<li><a href="#">Sell BTC</a></li>
+				<li><a href="#">Open Trades</a></li>
+				<li><a href="#">My Offers</a></li>
+				<li><a href="#">My Wallet</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<h1>Bisq Clone</h1>
+		<label for="search">Search Trades:</label>
+		<input type="text" id="search" name="search">
+		<table>
+			<thead>
+				<tr>
+					<th>Trade Type</th>
+					<th>Amount</th>
+					<th>Payment Method</th>
+					<th>Price</th>
+					<th>Action</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Buy BTC</td>
+					<td>0.5 BTC</td>
+					<td>Bank Transfer</td>
+					<td>USD 50,000</td>
+					<td><button>Trade</button></td>
+				</tr>
+				<tr>
+					<td>Sell BTC</td>
+					<td>1.0 BTC</td>
+					<td>Cash Deposit</td>
+					<td>USD 48,000</td>
+					<td><button>Trade</button></td>
+				</tr>
+				<tr>
+					<td>Buy BTC</td>
+					<td>0.2 BTC</td>
+					<td>Cash in Person</td>
+					<td>EUR 35,000</td>
+					<td><button>Trade</button></td>
+				</tr>
+				<tr>
+					<td>Sell BTC</td>
+					<td>0.1 BTC</td>
+					<td>Cash by Mail</td>
+					<td>USD 4,000</td>
+					<td><button>Trade</button></td>
+				</tr>
+			</tbody>
+		</table>
+		<button>Create Trade</button>
+	</main>
+</body>
+</html>
