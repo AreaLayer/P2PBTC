@@ -7,6 +7,11 @@ Marketplace P2P on Lightning Network to allow buy and sell BTCs or Satoshis on s
 
 The Marketplace have security of the Layer 1 from Bitcoin
 
+# Demo P2P Swap
+
+![image](https://user-images.githubusercontent.com/83122757/228357133-dd0f70b5-45bd-4764-847f-d888f6e15d40.png)
+
+
 # Fees
 
 For each good negotiation will be include  a fee of 0.04%
