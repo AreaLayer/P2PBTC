@@ -20,7 +20,7 @@
   },
 "package"
 "name":"lightning-js",
-"version:"7.1.6",
+"version":"7.1.6",
 },
  "exchange"
 "pair": "btc/usdt"
