@@ -19,8 +19,9 @@
     "react-scripts": "latest"
   },
 "package"
-"name":"lightning-js'
-"version:"7.1.6"
+"name":"lightning-js",
+"version:"7.1.6",
+},
  "exchange"
 "pair": "btc/usdt"
 },
