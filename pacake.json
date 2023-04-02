@@ -18,6 +18,9 @@
   "devDependencies": {
     "react-scripts": "latest"
   },
+"package"
+"name":"
+"version
  "exchange"
 "pair": "btc/usdt"
 },
