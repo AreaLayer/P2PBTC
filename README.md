@@ -50,5 +50,5 @@ https://p2pbtc.stackblitz.io
 - [ ] Mainnet
 - [X] Fees
 - [ ] UI via Terminal
-- [ ] Nostr integration
+- [ ] Nostr integration and  ION
 - [X] Pair BTC/USDT with API Bitifinex
