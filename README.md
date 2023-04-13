@@ -18,12 +18,9 @@ For each good negotiation will be include  a fee of 0.04%
 
 # How works? 
 
-We will use OP_RETURN used for a transaction between parties when a not realize pay to the other.
-Example:
+Buyer/Seller shows your keys for merchant be NPUB or ION
 
-Bob sells 0.05 BTC for Alice with price of 1000 USDT. But Alice not pay Bob. Like this we put OP_RETURN. Saving Bitcoins from Bob.
-
-Wiki: https://en.bitcoin.it/wiki/Script
+After accept and receive sats via invoice
 
 ## Deploy and Mainnet
 
