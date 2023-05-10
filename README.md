@@ -22,24 +22,13 @@ Buyer/Seller shows your keys for merchant be NPUB or ION
 
 After accept and receive sats via invoice
 
-## Deploy and Mainnet
+In simple words:
 
-```
-npm install / yarn
-```
+1.Both buyer and seller connects via relay or ION
 
-## Compile
-```
-npm run start
-```
+2.After the parties agree in agremment in close bussiness
 
-### Compiles and minifies for production
-```
-npm run build
-```
-## Prototype
-
-https://p2pbtc.stackblitz.io
+3.Now the buyer and seller shows invoices
 
 # To-Do
 
