@@ -1,20 +1,14 @@
 # P2P BTC 🔑
 Marketplace P2P on Lightning Network to allow buy and sell BTCs or Satoshis on second layer using Nostr or ION
 
-![image](https://user-images.githubusercontent.com/83122757/208185368-8b25d762-3b7c-4ea9-a768-d122d8a37e7b.png)
-
-# Security
-
-The Marketplace have security of the Layer 1 from Bitcoin
-
 # Demo P2P Swap
 
 ![image](https://user-images.githubusercontent.com/83122757/228357133-dd0f70b5-45bd-4764-847f-d888f6e15d40.png)
 
 
-# Fees
+# Comission
 
-For each good negotiation will be include  a fee of 0.04%
+For each good negotiation will be include  a fee of 0.04% 
 
 # How works? 
 
