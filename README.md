@@ -29,6 +29,7 @@ In simple words:
 - [X] Testnet
 - [ ] Mainnet
 - [X] Fees
+- [ ] PWA
 - [ ] UI via Terminal
 - [ ] Nostr integration and  ION
 - [X] Pair BTC/USDT with API Bitifinex
