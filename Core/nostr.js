@@ -5,3 +5,5 @@ const nostr = require ('relay');
 class pubkey
 class event
 class relay
+
+class invoice
