@@ -1,9 +1,19 @@
-const nostr = require ('event');
-const nosr = require ('pubkey');
-const nostr = require ('relay');
+const NostrClient = require('nostr-js').NostrClient;
+const NostrUtils = require('nostr-js').NostrUtils;
+const WebSocket = require('ws');
 
-class pubkey
-class event
-class relay
+const websocketEndpoint = 'wss://damus.com'; // Replace with your Nostr server endpoint
+const nostrClient = new NostrClient(new WebSocket(websocketEndpoint));
 
-class invoice
+const pubKey = 'your_pubkey_here'; // Replace with the PubKey you want to subscribe to
+nostrClient.subscribePubKey(pubKey);
+
+
+nostrClient.onUpdate((update) => {
+  const { pubKey, data } = update;
+  console.log(`Received update for PubKey ${pubKey}:`, data);
+  // Handle the update as needed
+});
+
+const updateData = { message: 'Hello, Nostr!' }; // Replace with your update data
+nostrClient.sendUpdate(pubKey, updateData);
