@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package lnrpc;
+
+import "google/protobuf/empty.proto";
+import "google/protobuf/descriptor.proto";
+
+service Lightning {
+  rpc GetInfo (google.protobuf.Empty) returns (GetInfoResponse) {}
+}
+
+message GetInfoResponse {
+  string version = 1;
+  string identity_pubkey = 2;
+  // Add other fields you require
+}
