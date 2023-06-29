@@ -36,5 +36,6 @@ In simple words:
 - [X] Fees
 - [ ] PWA
 - [ ] UI via Terminal
-- [ ] Nostr integration and  ION
+- [ ] Section for sell products or services alternative in only buy/sell Bitcoin
+- [x] Nostr integration and  ION
 - [X] Pair BTC/USDT with API Bitifinex
