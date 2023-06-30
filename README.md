@@ -3,7 +3,7 @@ Marketplace P2P on Lightning Network to allow buy and sell BTCs or Satoshis on s
 
 ## Demo P2P and PoC
 
-- [Poof of Concept with Nostr keys](https://github.com/AreaLayer/P2PBTC-PoC)
+[Poof of Concept with Nostr keys](https://github.com/AreaLayer/P2PBTC-PoC)
 
 ## Node for Noderunners
 
