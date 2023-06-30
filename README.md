@@ -1,5 +1,6 @@
-# P2P BTC 🔑
-Marketplace P2P on Lightning Network to allow buy and sell BTCs or Satoshis on second layer using Nostr or ION
+# P2P BTC 🔑 ⚡
+
+Marketplace P2P on Lightning Network to allow buy/sell products, services or Bitcoins
 
 ## Demo P2P and PoC
 
