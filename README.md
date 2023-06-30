@@ -1,6 +1,6 @@
 # P2P BTC 🔑 ⚡
 
-Marketplace P2P on Lightning Network to allow buy/sell products, services or Bitcoins
+Marketplace P2P on Lightning Network to allow buy/sell products, services or Bitcoin
 
 ## Demo P2P and PoC
 
