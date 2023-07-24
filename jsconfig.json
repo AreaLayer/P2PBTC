@@ -1,0 +1,7 @@
+{
+"Components",
+"lightning": true,
+"testnet": true,
+"mainnet" false,
+}
+  
