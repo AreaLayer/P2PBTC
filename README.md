@@ -6,7 +6,7 @@ Marketplace P2P on Lightning Network to allow buy/sell products, services or Bit
 
 [Poof of Concept with Nostr keys](https://github.com/AreaLayer/P2PBTC-PoC)
 
-## Node for Noderunners
+## Node for Node runners
 
 Soon 
 
@@ -37,4 +37,5 @@ In simple words:
 - [ ] UI via Terminal
 - [ ] Section for sell products or services alternative in only buy/sell Bitcoin
 - [x] Nostr integration and  ION
+- [ ] Slashtag
 - [X] Pair BTC/USDT with API Bitifinex
