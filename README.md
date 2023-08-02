@@ -38,4 +38,5 @@ In simple words:
 - [ ] Section for sell products or services alternative in only buy/sell Bitcoin
 - [x] Nostr integration and  ION
 - [ ] Slashtag
+- [ ] Payjoin
 - [X] Pair BTC/USDT with API Bitifinex
