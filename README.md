@@ -10,10 +10,6 @@ Marketplace P2P on Lightning Network to allow buy/sell products, services or Bit
 
 Soon 
 
-## Comission
-
-For each good negotiation will be include  a fee of 0.04% 
-
 ## How works? 
 
 Buyer/Seller shows your keys for merchant be NPUB or ION
@@ -32,11 +28,9 @@ In simple words:
 
 - [X] Testnet
 - [ ] Mainnet
-- [X] Fees
 - [ ] PWA
 - [ ] UI via Terminal
-- [ ] Section for sell products or services alternative in only buy/sell Bitcoin
-- [x] Nostr integration and  ION
-- [ ] Slashtag
-- [ ] Payjoin
-- [X] Pair BTC/USDT with API Bitifinex
+- [x] Section for sell products or services alternative in only buy/sell Bitcoin (WIP)
+- [x] Nostr integration and  ION (WIP)
+- [ ] Slashtag 
+- [x] Payjoin (WIP)
