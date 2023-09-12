@@ -12,7 +12,7 @@ Soon
 
 ## How works? 
 
-Buyer/Seller shows your keys for merchant be NPUB or ION
+Buyer/Seller shows your keys for merchant be Npub
 
 After accept and receive sats via invoice
 
@@ -31,6 +31,5 @@ In simple words:
 - [ ] PWA
 - [ ] UI via Terminal
 - [x] Section for sell products or services alternative in only buy/sell Bitcoin (WIP)
-- [x] Nostr integration and  ION (WIP)
-- [ ] Slashtag 
+- [x] Nostr (WIP)
 - [x] Payjoin (WIP)
