@@ -1,5 +1,9 @@
 # P2P BTC 🔑 ⚡
 
+**Contributions are welcome**
+
+⚠️**Alpha software**
+
 Marketplace P2P on Lightning Network to allow buy/sell products, services or Bitcoin
 
 
