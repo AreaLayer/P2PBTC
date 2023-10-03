@@ -1,15 +1,14 @@
 # P2P BTC 🔑 ⚡
 
+Marketplace P2P on Lightning Network to allow buy/sell products, services or Bitcoin
+
 **Contributions are welcome**
 
 ⚠️**Alpha software**
 
-Marketplace P2P on Lightning Network to allow buy/sell products, services or Bitcoin
-
-
 ## Node for Node runners
 
-Soon 
+TBA
 
 ## How works? 
 
@@ -30,7 +29,7 @@ In simple words:
 - [X] Testnet
 - [ ] Mainnet
 - [ ] PWA
-- [ ] UI via Terminal
+- [ ] UI via Web
 - [x] Section for sell products or services alternative in only buy/sell Bitcoin (WIP)
 - [x] Nostr (WIP)
 - [x] Payjoin (WIP)
