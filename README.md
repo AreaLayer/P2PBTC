@@ -33,3 +33,5 @@ In simple words:
 - [x] Section for sell products or services alternative in only buy/sell Bitcoin (WIP)
 - [x] Nostr (WIP)
 - [x] Payjoin (WIP)
+- [ ] Fix bugs and issues
+- [ ] Release Beta
