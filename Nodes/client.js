@@ -17,6 +17,7 @@ async function getNodeInfo() {
     console.error('Error:', error.message);
   }
 }
+// Define a function for CLN Node
 
 // Call the function to get node information
 getNodeInfo();
