@@ -5,6 +5,7 @@ Marketplace P2P on Lightning Network to allow buy/sell products, services or Bit
 **Contributions are welcome**
 
 ⚠️**Alpha software**
+⚠️**Use small amount**
 
 ## Node for Node runners
 
@@ -35,3 +36,4 @@ In simple words:
 - [x] Payjoin (WIP)
 - [ ] Fix bugs and issues
 - [ ] Release Beta
+- [ ] Breez SDK
