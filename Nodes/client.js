@@ -1,7 +1,9 @@
 const { LightningClient } = require('./lnd_pb_service');
 const { GetInfoRequest } = require('./lnd_pb');
+const { LightningClient} = require(/cln_pb_service');
 
 const lndHost = 'http://localhost:8080'; // Replace with your LND host
+const clnHostr = 'http://localhost:8080';
 
 // Create the gRPC client
 const client = new LightningClient(lndHost, null, null);
