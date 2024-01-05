@@ -4,13 +4,15 @@ Marketplace P2P on Lightning Network to allow buy/sell products, services or Bit
 
 **Contributions are welcome**
 
-⚠️**Alpha software**
+⚠️**Alpha software and WIP**
 
 ⚠️**Use small amount**
 
 ## Node for Node runners
 
-TBA
+**Beta software and WIP**
+
+[P2P BTC Node](https://github.com/AreaLayer/P2PBTC-Node/)
 
 ## How works? 
 
