@@ -1,3 +1,3 @@
-## P2P BTC Releases
+## P2P BTC Releases and Development
 
 TBD
