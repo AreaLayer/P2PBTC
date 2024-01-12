@@ -38,5 +38,5 @@ In simple words:
 - [x] Nostr (WIP)
 - [x] Payjoin (WIP)
 - [ ] Fix bugs and issues
+- [ ] Finish files pedents
 - [ ] Release Beta in 2024
-- [ ] Breez SDK
