@@ -1,3 +1,11 @@
 ## P2P BTC Releases and Development
 
-TBD
+See last developements on P2P BTC
+
+**Alpha - v1.0.9**
+
+**Highlights**
+
+- Added Changelog
+- Fixed depedencies
+
