@@ -37,6 +37,7 @@ In simple words:
 - [x] Section for sell products or services alternative in only buy/sell Bitcoin (WIP)
 - [x] Nostr (WIP)
 - [x] Payjoin (WIP)
+- [ ] Taproot
 - [ ] Fix bugs and issues
 - [ ] Finish files pedents
 - [ ] Release Beta in 2024
