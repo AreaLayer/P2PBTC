@@ -40,4 +40,5 @@ In simple words:
 - [ ] Taproot
 - [ ] Fix bugs and issues
 - [ ] Finish files pedents
+- [ ] Convert from JS to TS
 - [ ] Release Beta in 2024
